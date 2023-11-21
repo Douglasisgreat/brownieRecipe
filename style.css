@@ -1,0 +1,12 @@
+body {color: rgb(68, 27, 161); background-color: rgb(20, 187, 131); background-color: rgb(155, 94, 15); size: 120px; }
+h1{border: 20px solid red;  }
+li{filter: brightness(100);}
+p{color: rgb(30, 30, 99) ;border-bottom: 120px silver;  }
+h1 {margin-bottom: 120px;}
+li{color: rgb(54, 9, 54);}
+body {border: 8px solid rgb(5, 160, 44);}
+img {rotate: -01deg }
+h1{float: left; overflow-x: ;}
+pre{border: 5px solid rgb(121, 31, 31) ;}
+h2{background-color: aqua; border: 10px snow }
+img{float: right  px8;}
